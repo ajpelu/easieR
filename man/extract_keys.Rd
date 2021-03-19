@@ -13,5 +13,8 @@ extract_keys(path)
 A \code{data frame} with all reference keys
 }
 \description{
-It extracts reference keys (\em{e.g.} bibkeys) from a \code{Rmd} file
+It extracts reference keys (\emph{e.g.} bibkeys) from a \code{Rmd} file
+}
+\author{
+Antonio J Pérez-Luque (\email{ajpelu@gmail.com})
 }

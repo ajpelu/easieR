@@ -1,12 +1,17 @@
 Package: easieR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: It Makes Me (And Maybe To Others) Easier Work With R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: person("Antonio J.", "Pérez-Luque", 
+             email = "ajperez@ugr.es", 
+             role = c("aut", "cre"), 
+             comment = c(ORCID = "0000-0002-1747-0469"))
+Maintainer: Antonio J. Pérez-Luque <ajperez@gmail.com>
+Description: Miscelaneos functions what make easier the use of R. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+Imports: 
+    magrittr,
+    stringr

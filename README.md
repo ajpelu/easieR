@@ -1,13 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# easieR
+# easieR <img src="man/figures/logo.png" align="right" width="240"/>
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package contains functions that help me to make working with R
-easieR.
+This package contains functions that help to make working easieR with R.
 
 ## Installation
 

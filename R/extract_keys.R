@@ -1,8 +1,12 @@
 #' Extract reference keys
 #'
-#' It extracts reference keys (\em{e.g.} bibkeys) from a \code{Rmd} file
+#' It extracts reference keys (\emph{e.g.} bibkeys) from a \code{Rmd} file
 #' @param path The path of the \code{.Rmd} file
 #' @return A \code{data frame} with all reference keys
+#'
+#' @import stringr
+#' @author Antonio J Pérez-Luque (\email{ajpelu@@gmail.com})
+
 #'
 extract_keys <- function(path){
   f <- readLines(path)
