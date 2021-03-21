@@ -10,16 +10,13 @@ This package contains functions that help to make working easieR with R.
 
 ## Installation
 
-You can install the released version of easieR from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("easieR")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+You can install the the development version of easieR from
+[GitHub](https://github.com/ajpelu/easieR) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("ajpelu/easieR")
 ```
+
+Any suggestions, please open an issue at
+[GitHub](https://github.com/ajpelu/easieR/issues)

@@ -1,1 +1,9 @@
 url: https://ajpelu.github.io/easieR
+template:
+  params:
+    bootswatch: flaty
+navbar:
+  structure:
+    left:  [home, reference]
+    right: [github]
+
